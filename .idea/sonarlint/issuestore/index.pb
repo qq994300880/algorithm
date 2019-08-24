@@ -3,3 +3,17 @@ h
 8src/com/youngdream/algorithm/CountTheNumbersOfWrods.java,b\d\bd0aeaa792789fd71b9641d59eaa3defb8d07c41
 ^
 .src/com/youngdream/algorithm/ArrangeCoins.java,4\5\45c34c3ce5255a144a00f26a2ca8068b1a6f660d
+\
+,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+h
+8src/com/youngdream/algorithm/FindDisappearedNumbers.java,2\b\2bb9a03075225e240f795c30cc73c2e13bdee670
+m
+=src/com/youngdream/algorithm/SequenceTraversalOf_N_trees.java,e\c\ec35025c64e56db26ac52489fdf24f31685ba029
+a
+1src/com/youngdream/algorithm/FibonacciNumber.java,f\b\fb57f9e573907e8035226f5ca2f05d1a86bef4c8
+j
+:src/com/youngdream/algorithm/RepeatedSubstringPattern.java,f\3\f3fe4eac55a48c098a86220f7fd22d5cce663308
+d
+4src/com/youngdream/algorithm/NumberOfBoomerangs.java,f\c\fcb87d954bee1f6dd11286600c37381932a5eebd

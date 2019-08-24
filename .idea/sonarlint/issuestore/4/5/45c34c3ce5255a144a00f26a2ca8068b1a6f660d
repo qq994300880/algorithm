@@ -1,8 +1,0 @@
-
-Ssquid:S1854K"5Remove this useless assignment to local variable "i".(½Â –8²»ëƒË-
-Dsquid:S1481K"&Remove this unused "i" local variable.(½Â –8²»ëƒË-
-csquid:UnusedPrivateMethod"2Remove this unused private "arrangeCoins2" method.(Ãóæ¸ûÿÿÿÿ8Şâ¨‚Ë-
-Fsquid:S1481J"(Remove this unused "mid" local variable.(õù²8®¯éƒË-
-^squid:UnusedPrivateMethodI"2Remove this unused private "arrangeCoins4" method.(ÛèĞı8œÈäƒË-
-bsquid:UnusedPrivateMethod"1Remove this unused private "arrangeCoins" method.(ÁäÇöøÿÿÿÿ8•ÄáË-
-Usquid:S1854J"7Remove this useless assignment to local variable "mid".(õù²8®¯éƒË-
