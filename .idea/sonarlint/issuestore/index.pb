@@ -17,3 +17,7 @@ j
 :src/com/youngdream/algorithm/RepeatedSubstringPattern.java,f\3\f3fe4eac55a48c098a86220f7fd22d5cce663308
 d
 4src/com/youngdream/algorithm/NumberOfBoomerangs.java,f\c\fcb87d954bee1f6dd11286600c37381932a5eebd
+Z
+*src/com/youngdream/algorithm/MinMoves.java,8\0\809e54bd92159dc4563b7d525ded209700b105b0
+e
+5src/com/youngdream/algorithm/FindContentChildren.java,d\d\dd01b092cdaa25a4928ef3e6c3b1d732c118d0ce
