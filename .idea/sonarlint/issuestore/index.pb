@@ -21,3 +21,5 @@ Z
 *src/com/youngdream/algorithm/MinMoves.java,8\0\809e54bd92159dc4563b7d525ded209700b105b0
 e
 5src/com/youngdream/algorithm/FindContentChildren.java,d\d\dd01b092cdaa25a4928ef3e6c3b1d732c118d0ce
+_
+/src/com/youngdream/algorithm/IsSubsequence.java,c\5\c5ba5245c00575b5a20d2479ab4ad27875a3e908
