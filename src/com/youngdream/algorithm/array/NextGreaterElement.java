@@ -1,7 +1,6 @@
 package com.youngdream.algorithm.array;
 
 import java.util.ArrayDeque;
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -154,9 +153,5 @@ public class NextGreaterElement {
         }
 
         return result;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(Arrays.toString(new NextGreaterElement().nextGreaterElement3(new int[]{4, 1, 2}, new int[]{4, 1, 3, 2})));
     }
 }
