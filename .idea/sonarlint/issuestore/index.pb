@@ -41,3 +41,7 @@ n
 >src/com/youngdream/algorithm/Array/FindMaxConsecutiveOnes.java,e\d\edefbb5280b161ebc73eebbfe9261f23926fce20
 l
 <src/com/youngdream/algorithm/integer/ConstructRectangle.java,1\e\1e79d8a0892e56a227117d561f70c62fa06d2214
+n
+>src/com/youngdream/algorithm/array/FindMaxConsecutiveOnes.java,d\8\d8ecdc8cceff692ce55df1ab503975be80fe9f54
+j
+:src/com/youngdream/algorithm/array/NextGreaterElement.java,3\b\3b267364d8e68eff0ac7bd6a65f5df8f6294bcb5

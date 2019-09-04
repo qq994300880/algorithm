@@ -87,13 +87,13 @@ public class NextGreaterElement {
         int[] result = new int[nums1.length];
 
         for (int num : nums2) {
-            //如果栈不为空且栈内元素(上一个元素)小于当前元素，则加入到Map中
+            //如果栈不为空且当前元素大于栈顶元素(即前N个元素的最近更大元素)，则加入到Map中
             while (!stack.isEmpty() && stack.peekFirst() < num) {
                 hasMap.put(stack.pollFirst(), num);
             }
             stack.addFirst(num);
         }
-        //获取map值，没有为-1
+        //获取map值，没有则默认为-1
         for (int i = 0; i < nums1.length; i++) result[i] = hasMap.getOrDefault(nums1[i], -1);
 
         return result;
@@ -154,5 +154,9 @@ public class NextGreaterElement {
         }
 
         return result;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(Arrays.toString(new NextGreaterElement().nextGreaterElement3(new int[]{4, 1, 2}, new int[]{4, 1, 3, 2})));
     }
 }
