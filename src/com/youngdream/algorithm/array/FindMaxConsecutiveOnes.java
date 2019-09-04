@@ -1,4 +1,4 @@
-package com.youngdream.algorithm.Array;
+package com.youngdream.algorithm.array;
 
 /**
  * @Author YoungDream

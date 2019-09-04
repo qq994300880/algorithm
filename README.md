@@ -10,3 +10,5 @@
 
 ###Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
+
+2019-09-04  => 496.下一个更大元素 I  `NextGreaterElement.java`

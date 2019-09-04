@@ -37,3 +37,7 @@ h
 8src/com/youngdream/algorithm/integer/FindComplement.java,0\7\07487a9bf5776063136e4347d5c7728f7ac22788
 m
 =src/com/youngdream/algorithm/string/LicenseKeyFormatting.java,0\1\01da0d8f65dfbbfdc459fccd6a687b2724bc01c7
+n
+>src/com/youngdream/algorithm/Array/FindMaxConsecutiveOnes.java,e\d\edefbb5280b161ebc73eebbfe9261f23926fce20
+l
+<src/com/youngdream/algorithm/integer/ConstructRectangle.java,1\e\1e79d8a0892e56a227117d561f70c62fa06d2214
