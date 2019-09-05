@@ -14,3 +14,6 @@
 2019-09-04  => 496.下一个更大元素 I  `NextGreaterElement.java`
 
 2019-09-04  => 500.键盘行  `FindWords.java`
+
+### Tree
+2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
