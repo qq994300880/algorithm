@@ -5,6 +5,8 @@
 
 2019-09-03  => 492.构造矩形  `ConstructRectangle.java`
 
+2019-09-06  => 504.七进制数  `ConvertToBase7.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
@@ -14,6 +16,8 @@
 2019-09-04  => 496.下一个更大元素 I  `NextGreaterElement.java`
 
 2019-09-04  => 500.键盘行  `FindWords.java`
+
+2019-09-06  => 506.相对名次  `FindRelativeRanks.java`
 
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
