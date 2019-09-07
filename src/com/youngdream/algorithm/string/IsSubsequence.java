@@ -1,4 +1,4 @@
-package com.youngdream.algorithm;
+package com.youngdream.algorithm.string;
 
 /**
  * @Author YoungDream
@@ -21,7 +21,6 @@ public class IsSubsequence {
      * 后续挑战 :
      * 如果有大量输入的 S，称作S1, S2, ... , Sk 其中 k >= 10亿，你需要依次检查它们是否为 T 的子序列。在这种情况下，你会怎样改变代码？
      */
-
     //方法一：将字符少的s转化为byte数组，然后通过t.charAt(int index)对比t字符
     public boolean isSubsequence1(String s, String t) {
         int count = 0;

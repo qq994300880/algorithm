@@ -1,4 +1,4 @@
-package com.youngdream.algorithm;
+package com.youngdream.algorithm.array;
 
 /**
  * @Author YoungDream
@@ -142,10 +142,5 @@ public class MinMoves {
             sum += i - min;
         }
         return sum;
-    }
-
-    public static void main(String[] args) {
-        int[] nums = new int[]{1, 1, 1};
-        System.out.println(new MinMoves().minMovesPrint1(nums));
     }
 }

@@ -10,6 +10,10 @@
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
+2019-09-07  => 520.检测大写字母 `DetectCapitalUse.java`
+
+2019-09-07  => 521.最长特殊序列 I `FindLUSlength.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 

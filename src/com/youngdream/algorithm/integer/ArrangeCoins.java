@@ -1,17 +1,10 @@
-package com.youngdream.algorithm;
+package com.youngdream.algorithm.integer;
 
 /**
  * @Author YoungDream
  * @Date 2019/8/21 1:39
  */
 public class ArrangeCoins {
-    public static void main(String[] args) {
-        int n = 15;
-        System.out.println(arrangeCoins(n));
-        System.out.println(arrangeCoins2(n));
-        System.out.println(arrangeCoins3(n));
-    }
-
     /**
      * 你总共有 n 枚硬币，你需要将它们摆成一个阶梯形状，第 k 行就必须正好有 k 枚硬币。
      * 给定一个数字 n，找出可形成完整阶梯行的总行数。

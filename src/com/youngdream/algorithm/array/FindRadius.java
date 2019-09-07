@@ -1,4 +1,4 @@
-package com.youngdream.algorithm;
+package com.youngdream.algorithm.array;
 
 import java.util.Arrays;
 

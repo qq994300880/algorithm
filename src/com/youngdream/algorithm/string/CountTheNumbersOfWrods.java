@@ -1,4 +1,4 @@
-package com.youngdream.algorithm;
+package com.youngdream.algorithm.string;
 
 /**
  * 统计字符串中的单词个数，这里的单词指的是连续的不是空格的字符。
@@ -9,11 +9,6 @@ package com.youngdream.algorithm;
  * 输出: 5
  */
 public class CountTheNumbersOfWrods {
-    public static void main(String[] args) {
-        String s = "Hello, my name is John";
-        System.out.println(countSegments(s));
-    }
-
     private static int countSegments(String s) {
         if (null == s || s.length() == 0) return 0;
         char[] chars = s.toCharArray();
