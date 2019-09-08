@@ -7,6 +7,8 @@
 
 2019-09-06  => 504.七进制数  `ConvertToBase7.java`
 
+2019-09-08  => 507.完美数  `CheckPerfectNumber.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
