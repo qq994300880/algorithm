@@ -27,3 +27,5 @@
 
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
+
+2019-09-09  => 530.二叉搜索树的最小绝对差 `GetMinimumDifference.java`
