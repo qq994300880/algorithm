@@ -25,6 +25,8 @@
 
 2019-09-06  => 506.相对名次  `FindRelativeRanks.java`
 
+2019-09-09  => 532.数组中的k-diif数对  `FindPairs.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
