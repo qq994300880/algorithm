@@ -35,3 +35,5 @@
 2019-09-09  => 530.二叉搜索树的最小绝对差 `GetMinimumDifference.java`
 
 2019-09-10  => 538.把二叉搜索树转换为累加树  `ConvertBST.java`
+
+2019-09-15  => 543.二叉树的直径 `DiameterOfBinaryTree.java`
