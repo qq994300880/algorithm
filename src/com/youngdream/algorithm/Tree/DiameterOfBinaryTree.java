@@ -22,7 +22,7 @@ public class DiameterOfBinaryTree {
      */
     private int max = 0;
 
-    //2ms   修改了树的数据
+    //1ms   修改了树的数据,不太好
     public int diameterOfBinaryTree(TreeNode root) {
         if (root == null) return 0;
         zhongxu(root);
@@ -47,7 +47,7 @@ public class DiameterOfBinaryTree {
         max = Math.max(max, left + right + 2);
     }
 
-    //1ms 只需记录深度即可
+    //1ms 只需记录深度回调即可
     public int diameterOfBinaryTree2(TreeNode root) {
         if (root == null) return 0;
         depth(root);
