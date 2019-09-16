@@ -18,6 +18,8 @@
 
 2019-09-14  => 541.反转字符串 II `ReverseStr2.java`
 
+2019-09-16  => 551.学生出勤记录 I `CheckRecord1.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
