@@ -33,6 +33,8 @@
 
 2019-09-09  => 532.数组中的k-diif数对  `FindPairs.java`
 
+2019-09-23  => 561.数组拆分 I `ArrayPairSum.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
