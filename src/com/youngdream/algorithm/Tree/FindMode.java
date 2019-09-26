@@ -45,9 +45,8 @@ public class FindMode {
 
     //执行的顺序就是从x开始找，一直找到最左侧节点，a->y->b->x->z->c->d
     private void dfs(TreeNode node) {
-        if (node == null) {
-            return;
-        }
+        if (node == null) return;
+
         dfs(node.left);
 
         if (preNode != null) {
