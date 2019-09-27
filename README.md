@@ -39,6 +39,8 @@
 
 2019-09-25  => 566.重塑矩阵 `MatrixReshape.java`
 
+2019-09-27  => 575.分糖果 `DistributeCandies.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
