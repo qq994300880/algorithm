@@ -41,6 +41,8 @@
 
 2019-09-27  => 575.分糖果 `DistributeCandies.java`
 
+2019-09-28  => 581.最短无序连续子数组 `FindUnsortedSubarray.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
@@ -55,3 +57,7 @@
 2019-09-23  => 559.N叉树的最大深度 `MaxDepth.java`
 
 2019-09-26  => 572.另一个树的子树 `IsSubtree.java`
+
+2019-09-28  => 589.N叉树的前序遍历 `Preorder.java`
+
+2019-09-28  => 590.N叉树的后序遍历 `Postorder.java`
