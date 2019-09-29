@@ -45,6 +45,8 @@
 
 2019-09-29  => 594.最长和谐子序列 `FindLHS.java`
 
+2019-09-30  => 605.种花问题 `CanPlaceFlowers.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
@@ -63,3 +65,8 @@
 2019-09-28  => 589.N叉树的前序遍历 `Preorder.java`
 
 2019-09-28  => 590.N叉树的后序遍历 `Postorder.java`
+
+### SQL
+2019-09-30  => 595.大的国家 `BigCountry.sql`
+
+2019-09-30  => 596.超过5名学生的课 `LessonForMoreThanFive.sql`
