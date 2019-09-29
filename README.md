@@ -43,6 +43,8 @@
 
 2019-09-28  => 581.最短无序连续子数组 `FindUnsortedSubarray.java`
 
+2019-09-29  => 594.最长和谐子序列 `FindLHS.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
