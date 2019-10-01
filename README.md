@@ -22,6 +22,8 @@
 
 2019-09-21  => 557. 反转字符串中的单词 III `ReverseWords3.java`
 
+2019-10-01  => 599.两个列表的最小索引总和 `FindRestaurant.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
@@ -65,7 +67,10 @@
 2019-09-28  => 589.N叉树的前序遍历 `Preorder.java`
 
 2019-09-28  => 590.N叉树的后序遍历 `Postorder.java`
+
 2019-09-30  => 617.合并二叉树 `MergeTrees.java`
+
+2019-10-01  => 606.根据二叉树创建字符串 `Tree2str.java`
 
 ### SQL
 2019-09-30  => 595.大的国家 `BigCountry.sql`
