@@ -76,3 +76,5 @@
 2019-09-30  => 595.大的国家 `BigCountry.sql`
 
 2019-09-30  => 596.超过5名学生的课 `LessonForMoreThanFive.sql`
+
+2019-10-02  => 620.有趣的电影 `InterestingMovie.sql`
