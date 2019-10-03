@@ -78,3 +78,5 @@
 2019-09-30  => 596.超过5名学生的课 `LessonForMoreThanFive.sql`
 
 2019-10-02  => 620.有趣的电影 `InterestingMovie.sql`
+
+2019-10-03  => 627.交换工资 `ExchangeSalary.sql`
