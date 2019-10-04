@@ -9,6 +9,8 @@
 
 2019-09-08  => 507.完美数  `CheckPerfectNumber.java`
 
+2019-10-04  => 633.平方数之和 `JudgeSquareSum.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
