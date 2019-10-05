@@ -74,6 +74,8 @@
 
 2019-10-01  => 606.根据二叉树创建字符串 `Tree2str.java`
 
+2019-10-05  => 637.二叉树的层平均值 `AverageOfLevels.java`
+
 ### SQL
 2019-09-30  => 595.大的国家 `BigCountry.sql`
 
