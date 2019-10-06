@@ -51,6 +51,8 @@
 
 2019-09-30  => 605.种花问题 `CanPlaceFlowers.java`
 
+2019-10-26  => 643.子数组最大平均数 I `FindMaxAverage.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
