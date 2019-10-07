@@ -30,7 +30,7 @@ public class MaxDepth {
         return ++result;
     }
 
-    //迭代：层序遍历 BFS
+    //迭代：层序遍历 BFS 广度优先搜索算法
     public int maxDepth2(Node root) {
         if (root == null) return 0;
         Queue<Node> queue = new LinkedList<>();
@@ -51,5 +51,5 @@ public class MaxDepth {
         return maxDepth;
     }
 
-    //DFS
+    //DFS  深度优先搜索算法
 }

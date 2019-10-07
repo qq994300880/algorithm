@@ -26,6 +26,8 @@
 
 2019-10-01  => 599.两个列表的最小索引总和 `FindRestaurant.java`
 
+2019-10-08  => 657.机器人能否返回原点 `JudgeCircle.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
@@ -55,6 +57,8 @@
 
 2019-10-07  => 645.错误的集合 `FindErrorNums.java`
 
+2019-10-08  => 661.图片平滑器 `ImageSmoother.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
@@ -79,6 +83,8 @@
 2019-10-01  => 606.根据二叉树创建字符串 `Tree2str.java`
 
 2019-10-05  => 637.二叉树的层平均值 `AverageOfLevels.java`
+
+2019-10-08  => 653.两数之和 IV `FindTarget4.java`
 
 ### SQL
 2019-09-30  => 595.大的国家 `BigCountry.sql`
