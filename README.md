@@ -59,6 +59,8 @@
 
 2019-10-08  => 661.图片平滑器 `ImageSmoother.java`
 
+2019-10-08  => 665.非递减数列 `CheckPossibility.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
