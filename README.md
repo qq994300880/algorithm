@@ -88,6 +88,8 @@
 
 2019-10-08  => 653.两数之和 IV `FindTarget4.java`
 
+2019-10-11  => 669.修剪二叉搜索树 `TrimBST.java`
+
 ### SQL
 2019-09-30  => 595.大的国家 `BigCountry.sql`
 
