@@ -28,6 +28,8 @@
 
 2019-10-08  => 657.机器人能否返回原点 `JudgeCircle.java`
 
+2019-10-11  => 299.猜数字游戏 `GetHint.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
@@ -89,6 +91,8 @@
 2019-10-08  => 653.两数之和 IV `FindTarget4.java`
 
 2019-10-11  => 669.修剪二叉搜索树 `TrimBST.java`
+
+2019-10-11  => 671.二叉树中第二小的节点 `FindSecondMinimumValue.java`
 
 ### SQL
 2019-09-30  => 595.大的国家 `BigCountry.sql`
