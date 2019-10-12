@@ -63,6 +63,8 @@
 
 2019-10-08  => 665.非递减数列 `CheckPossibility.java`
 
+2019-10-12  => 674.最长连续递增序列 `FindLengthOfLCIS.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
