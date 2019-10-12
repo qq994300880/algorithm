@@ -30,6 +30,8 @@
 
 2019-10-11  => 299.猜数字游戏 `GetHint.java`
 
+2019-10-12  => 680.验证回文字符串II `ValidPalindrome2.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
