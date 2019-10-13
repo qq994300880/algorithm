@@ -34,6 +34,8 @@
 
 2019-10-12  => 682.棒球比赛 `CalPoints.java`
 
+2019-10-13  => 686.重复叠加字符串匹配 `RepeatedStringMatch.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
