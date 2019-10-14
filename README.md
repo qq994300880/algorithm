@@ -102,6 +102,8 @@
 
 2019-10-11  => 671.二叉树中第二小的节点 `FindSecondMinimumValue.java`
 
+2019-10-14  => 687.最长同值路径 `LongestUnivaluePath.java`
+
 ### SQL
 2019-09-30  => 595.大的国家 `BigCountry.sql`
 
