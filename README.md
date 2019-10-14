@@ -11,6 +11,8 @@
 
 2019-10-04  => 633.平方数之和 `JudgeSquareSum.java`
 
+2019-10-14  => 693.交替位二进制数 `HasAlternatingBits.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
@@ -35,6 +37,8 @@
 2019-10-12  => 682.棒球比赛 `CalPoints.java`
 
 2019-10-13  => 686.重复叠加字符串匹配 `RepeatedStringMatch.java`
+
+2019-10-14  => 696.计数二进制子串 `CountBinarySubstrings.java`
 
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
