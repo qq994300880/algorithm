@@ -22,6 +22,8 @@ public class SearchBST {
      * 在上述示例中，如果要找的值是 5，但因为没有节点值为 5，我们应该返回 NULL。
      */
     public TreeNode searchBST(TreeNode root, int val) {
+        //初始化结果节点
+        result = null;
         //赋值给实例变量
         value = val;
         //调用方法获得结果节点
@@ -30,7 +32,7 @@ public class SearchBST {
     }
 
     //保存结果节点
-    private TreeNode result = null;
+    private TreeNode result;
     //保存定值
     private int value;
 
