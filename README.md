@@ -112,6 +112,8 @@
 
 2019-10-14  => 687.最长同值路径 `LongestUnivaluePath.java`
 
+2019-11-08  => 700.二叉搜索树中的搜索 `SearchBST.java`
+
 ### SQL
 2019-09-30  => 595.大的国家 `BigCountry.sql`
 
