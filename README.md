@@ -79,6 +79,8 @@
 
 2019-11-08  => 697.数组的度 `FindShortestSubArray.java`
 
+2019-11-09  => 703.数据流中的第K大元素 `KthLargest.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
