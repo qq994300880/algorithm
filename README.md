@@ -118,6 +118,9 @@
 
 2019-11-08  => 700.二叉搜索树中的搜索 `SearchBST.java`
 
+### Hash
+2019-11-10  => 705.设计哈希集合 `MyHashSet.java`
+
 ### SQL
 2019-09-30  => 595.大的国家 `BigCountry.sql`
 
