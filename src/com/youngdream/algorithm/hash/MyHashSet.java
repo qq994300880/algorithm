@@ -53,7 +53,7 @@ public class MyHashSet {
 //        return hash[key] == 1;
 //    }
     //静态内部类
-    static class Node {
+    private static class Node {
         int val;
         Node prev;
         Node next;

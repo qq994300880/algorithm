@@ -121,6 +121,8 @@
 ### Hash
 2019-11-10  => 705.设计哈希集合 `MyHashSet.java`
 
+2019-11-11  => 706.设计哈希映射 `MyHashMap.java`
+
 ### SQL
 2019-09-30  => 595.大的国家 `BigCountry.sql`
 
