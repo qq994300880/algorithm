@@ -85,6 +85,8 @@
 
 2019-11-10  => 704.二分查找 `Search.java`
 
+2019-11-11  => 717.1比特与2比特字符 `IsOneBitCharacter.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
