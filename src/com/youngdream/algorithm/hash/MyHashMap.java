@@ -33,9 +33,7 @@ public class MyHashMap {
      * 操作的总数目在[1, 10000]范围内。
      * 不要使用内建的哈希库。
      * <p>
-     * 来源：力扣（LeetCode）
-     * 链接：https://leetcode-cn.com/problems/design-hashmap
-     * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+     * 基于数组加链表
      */
     private static class Node {
         int key;
