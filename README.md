@@ -13,6 +13,8 @@
 
 2019-10-14  => 693.交替位二进制数 `HasAlternatingBits.java`
 
+2019-11-13  => 728.自除数 `SelfDividingNumbers.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
@@ -88,6 +90,8 @@
 2019-11-10  => 704.二分查找 `Search.java`
 
 2019-11-11  => 717.1比特与2比特字符 `IsOneBitCharacter.java`
+
+2019-11-13  => 724.寻找数组的中心索引 `PivotIndex.java`
 
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
