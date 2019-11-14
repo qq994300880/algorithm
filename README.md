@@ -93,8 +93,11 @@
 
 2019-11-13  => 724.寻找数组的中心索引 `PivotIndex.java`
 
-2019-11-13  => 733.图像渲染 `FloodFill.java`
+2019-11-13  => 733.图像渲染 `FloodFill.java
 
+2019-11-14  => 744.寻找比目标字母大的最小字母 `NextGreatestLetter.java`
+
+2019-11-14  => 746.使用最小花费爬楼梯 `MinCostClimbingStairs.java`
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
