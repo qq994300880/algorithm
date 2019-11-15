@@ -46,6 +46,8 @@
 
 2019-11-12  => 720.词典中最长的单词 `LongestWord.java`
 
+2019-11-15  => 748.最短完整词 `ShortestCompletingWord.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
