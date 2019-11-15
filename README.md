@@ -98,6 +98,8 @@
 2019-11-14  => 744.寻找比目标字母大的最小字母 `NextGreatestLetter.java`
 
 2019-11-14  => 746.使用最小花费爬楼梯 `MinCostClimbingStairs.java`
+
+2019-11-15  => 747.至少是其他数字两倍的最大数 `DominantIndex.java`
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
