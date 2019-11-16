@@ -15,6 +15,8 @@
 
 2019-11-13  => 728.自除数 `SelfDividingNumbers.java`
 
+2019-11-16  => 762.二进制表示中质数个计算置位 `CountPrimeSetBits.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
