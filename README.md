@@ -17,6 +17,7 @@
 
 2019-11-16  => 762.二进制表示中质数个计算置位 `CountPrimeSetBits.java`
 
+2019-11-16  => 754.到达终点数字 `ReachNumber.java`
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
