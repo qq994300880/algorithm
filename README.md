@@ -18,6 +18,7 @@
 2019-11-16  => 762.二进制表示中质数个计算置位 `CountPrimeSetBits.java`
 
 2019-11-16  => 754.到达终点数字 `ReachNumber.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
@@ -105,6 +106,8 @@
 2019-11-14  => 746.使用最小花费爬楼梯 `MinCostClimbingStairs.java`
 
 2019-11-15  => 747.至少是其他数字两倍的最大数 `DominantIndex.java`
+
+2019-11-17  => 766.托普利茨矩阵 `IsToeplitzMatrix.java`
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
