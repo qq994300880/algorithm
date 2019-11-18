@@ -52,6 +52,8 @@
 
 2019-11-15  => 748.最短完整词 `ShortestCompletingWord.java`
 
+2019-11-18  => 771.宝石与石头 `NumJewelsInStones.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
@@ -108,6 +110,7 @@
 2019-11-15  => 747.至少是其他数字两倍的最大数 `DominantIndex.java`
 
 2019-11-17  => 766.托普利茨矩阵 `IsToeplitzMatrix.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
