@@ -146,6 +146,8 @@
 
 2019-11-08  => 700.二叉搜索树中的搜索 `SearchBST.java`
 
+2019-11-24  => 783.二叉搜索树结点最小距离 `MinDiffInBST.java`
+
 ### Hash
 2019-11-10  => 705.设计哈希集合 `MyHashSet.java`
 
