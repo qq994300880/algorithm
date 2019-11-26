@@ -19,6 +19,8 @@
 
 2019-11-16  => 754.到达终点数字 `ReachNumber.java`
 
+2019-11-26  => 788.旋转数字 `RotatedDigits.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
