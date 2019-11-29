@@ -60,6 +60,8 @@
 
 2019-11-27  => 796.旋转字符串 `RotateString.java`
 
+2019-11-29  => 806.写字符串需要的行数 `NumberOfLines.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
