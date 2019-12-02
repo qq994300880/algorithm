@@ -62,6 +62,8 @@
 
 2019-11-29  => 806.写字符串需要的行数 `NumberOfLines.java`
 
+2019-12-02  => 819.最常见的单词 `MostCommonWord.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
