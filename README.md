@@ -64,6 +64,8 @@
 
 2019-12-02  => 819.最常见的单词 `MostCommonWord.java`
 
+2019-12-03  => 821.字符的最短距离 `ShortestToChar.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
