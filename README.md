@@ -68,6 +68,8 @@
 
 2019-12-04  => 824.山羊拉丁文 `ToGoatLatin.java`
 
+2019-12-06  => 830.较大分组的位置 `LargeGroupPositions.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
