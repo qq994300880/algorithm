@@ -137,6 +137,8 @@
 
 2019-12-07  => 836.矩形重叠 `IsRectangleOverlap.java`
 
+2019-12-08  => 840.矩阵中的幻方 `NumMagicSquaresInside.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
