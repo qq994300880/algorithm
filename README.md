@@ -70,6 +70,8 @@
 
 2019-12-06  => 830.较大分组的位置 `LargeGroupPositions.java`
 
+2019-12-09  => 844.比较含退格的字符串 `BackspaceCompare.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
