@@ -141,6 +141,8 @@
 
 2019-12-08  => 840.矩阵中的幻方 `NumMagicSquaresInside.java`
 
+2019-12-10  => 849.到最近的人的最大距离 `MaxDistToClosest.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
