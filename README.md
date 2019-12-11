@@ -143,6 +143,8 @@
 
 2019-12-10  => 849.到最近的人的最大距离 `MaxDistToClosest.java`
 
+2019-12-11  => 852.山脉数组的峰顶索引 `PeakIndexInMountainArray.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
