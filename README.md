@@ -72,6 +72,8 @@
 
 2019-12-09  => 844.比较含退格的字符串 `BackspaceCompare.java`
 
+2019-12-12  => 859.亲密字符串 `BuddyStrings.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
