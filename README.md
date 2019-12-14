@@ -147,6 +147,10 @@
 
 2019-12-11  => 852.山脉数组的峰顶索引 `PeakIndexInMountainArray.java`
 
+2019-12-13  => 860.柠檬水找零 `LemonadeChange.java`
+
+2019-12-14  => 867.转置矩阵 `Transpose.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
