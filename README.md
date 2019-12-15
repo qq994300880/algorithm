@@ -21,6 +21,8 @@
 
 2019-11-26  => 788.旋转数字 `RotatedDigits.java`
 
+2019-12-15  => 868.二进制间距 `BinaryGap.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
