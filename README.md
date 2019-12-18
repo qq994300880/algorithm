@@ -153,6 +153,8 @@
 
 2019-12-14  => 867.转置矩阵 `Transpose.java`
 
+2019-12-17  => 874.模拟行走机器人 `RobotSim.java` ~~最后一个用例没通过~~
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
@@ -205,3 +207,6 @@
 2019-10-02  => 620.有趣的电影 `InterestingMovie.sql`
 
 2019-10-03  => 627.交换工资 `ExchangeSalary.sql`
+
+### List
+2019-12-18  => 876.链表的中间结点 `MiddleNode.java`
