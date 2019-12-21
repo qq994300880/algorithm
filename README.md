@@ -159,6 +159,8 @@
 
 2019-12-19  => 883.二维形体投影面积 `ProjectionArea.java`
 
+2019-12-21  => 888.公平的糖果交换 `FairCandySwap.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
