@@ -66,3 +66,5 @@ f
 6src/com/youngdream/algorithm/array/ProjectionArea.java,6\5\656b090a6ca9e76c31bd1fec19d073ba72e5e7ee
 n
 >src/com/youngdream/algorithm/string/UncommonFromSentences.java,d\0\d003e6e8a47cda46cd72cdd6f6e2afca99776c22
+e
+5src/com/youngdream/algorithm/array/FairCandySwap.java,7\2\72235b9c862189e83a434f581b6843f5084e2445
