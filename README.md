@@ -78,6 +78,8 @@
 
 2019-12-20  => 884.两句话中的不常见单词 `UncommonFromSentences.java`
 
+2019-12-23  => 893.特殊等价字符串组 `NumSpecialEquivGroups.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
