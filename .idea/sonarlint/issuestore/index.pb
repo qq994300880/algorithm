@@ -70,3 +70,7 @@ e
 5src/com/youngdream/algorithm/array/FairCandySwap.java,7\2\72235b9c862189e83a434f581b6843f5084e2445
 c
 3src/com/youngdream/algorithm/array/SurfaceArea.java,2\6\269b63533395b861e03e5411ae390c25b5e7f3a3
+n
+>src/com/youngdream/algorithm/string/NumSpecialEquivGroups.java,a\7\a748f1bf88861f7667c9d243c3e3a27f6b7346ec
+c
+3src/com/youngdream/algorithm/array/IsMonotonic.java,b\9\b963a7c8591ce2bf9599fadd4341f936c0b88eeb

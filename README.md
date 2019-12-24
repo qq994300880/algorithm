@@ -165,6 +165,8 @@
 
 2019-12-22  => 892.三维形体的表面积 `SurfaceArea.java`
 
+2019-12-24  => 896.单调数列 `IsMonotonic.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
