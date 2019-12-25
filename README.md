@@ -206,6 +206,8 @@
 
 2019-12-17  => 872.叶子相似的树 `LeafSimilar.java`
 
+2019-12-25  => 897.递增顺序查找树 `IncreasingBST.java`
+
 ### Hash
 2019-11-10  => 705.设计哈希集合 `MyHashSet.java`
 
