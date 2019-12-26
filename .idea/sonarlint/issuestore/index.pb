@@ -74,3 +74,5 @@ n
 >src/com/youngdream/algorithm/string/NumSpecialEquivGroups.java,a\7\a748f1bf88861f7667c9d243c3e3a27f6b7346ec
 c
 3src/com/youngdream/algorithm/array/IsMonotonic.java,b\9\b963a7c8591ce2bf9599fadd4341f936c0b88eeb
+d
+4src/com/youngdream/algorithm/tree/IncreasingBST.java,4\6\466590ab53fd4bf7591f5634c49006bcdf9649e6

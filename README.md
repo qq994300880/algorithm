@@ -167,6 +167,8 @@
 
 2019-12-24  => 896.单调数列 `IsMonotonic.java`
 
+2019-12-26  => 905.按奇偶排序数组 `SortArrayByParity.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
