@@ -169,6 +169,10 @@
 
 2019-12-26  => 905.按奇偶排序数组 `SortArrayByParity.java`
 
+2019-12-27  => 908.最小差值I `SmallestRangeI.java`
+
+2019-12-28  => 914.卡牌分组 `HasGroupsSizeX.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 

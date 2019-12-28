@@ -76,3 +76,7 @@ c
 3src/com/youngdream/algorithm/array/IsMonotonic.java,b\9\b963a7c8591ce2bf9599fadd4341f936c0b88eeb
 d
 4src/com/youngdream/algorithm/tree/IncreasingBST.java,4\6\466590ab53fd4bf7591f5634c49006bcdf9649e6
+i
+9src/com/youngdream/algorithm/array/SortArrayByParity.java,2\d\2d64763f7f714fe3d41aec7e09138772e758d5fa
+f
+6src/com/youngdream/algorithm/array/SmallestRangeI.java,d\b\db438606f74edb919dbc2c039fc3ab5a3b4b5df9
