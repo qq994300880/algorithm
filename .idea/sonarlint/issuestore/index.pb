@@ -80,3 +80,5 @@ i
 9src/com/youngdream/algorithm/array/SortArrayByParity.java,2\d\2d64763f7f714fe3d41aec7e09138772e758d5fa
 f
 6src/com/youngdream/algorithm/array/SmallestRangeI.java,d\b\db438606f74edb919dbc2c039fc3ab5a3b4b5df9
+f
+6src/com/youngdream/algorithm/array/HasGroupsSizeX.java,1\7\17f0ca303888b4bba244600e54846c7aee087099
