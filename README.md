@@ -23,6 +23,8 @@
 
 2019-12-15  => 868.二进制间距 `BinaryGap.java`
 
+2019-12-31  => 38.外观数列 `CountAndSay.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
