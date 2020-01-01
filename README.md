@@ -84,6 +84,8 @@
 
 2019-12-29  => 917.仅仅反转字母 `ReverseOnlyLetters.java`
 
+2020-01-01  => 925.长按键入 `IsLongPressedName.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
