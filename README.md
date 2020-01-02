@@ -86,6 +86,8 @@
 
 2020-01-01  => 925.长按键入 `IsLongPressedName.java`
 
+2020-01-02  => 929.独特的电子邮件地址 `NumUniqueEmails.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 

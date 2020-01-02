@@ -6,8 +6,7 @@ S
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 =
-
-algorithm.iml,1\6\1648eeac5c90967ac9aba4bdea7c72a8ab9f970f
+algorithm.iml,1\6\1648eeac5c90967ac9aba4bdea7c72a8ab9f970f
 h
 8src/com/youngdream/algorithm/integer/FindComplement.java,0\7\07487a9bf5776063136e4347d5c7728f7ac22788
 m
@@ -87,3 +86,13 @@ k
 ;src/com/youngdream/algorithm/string/ReverseOnlyLetters.java,0\5\0536bd823c1117bd070fe84b2edc0019ba324094
 k
 ;src/com/youngdream/algorithm/array/SortArrayByParityII.java,3\1\31eb6169bd68a3af1df5edd72a01ec6633dd35f2
+e
+5src/com/youngdream/algorithm/integer/CountAndSay.java,b\f\bfa331fcd6acdef655702ed70fe4a52a69f1780d
+_
+/src/com/youngdream/algorithm/sql/BigCountry.sql,7\0\7057d19348b3d1e03cf1ce56db176c77666da1d5
+j
+:src/com/youngdream/algorithm/string/IsLongPressedName.java,a\0\a0437bd718b9d150ffdbfc1ac0e06fd0c56627f2
+j
+:src/com/youngdream/algorithm/test/StringPassingMethod.java,c\9\c93a7109585eab22559e2702944701bff06a5224
+[
++src/com/youngdream/algorithm/test/Test.java,f\f\ffdcd9dc942d71091c12a3f6cf4ee57110aa86b8
