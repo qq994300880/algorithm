@@ -90,6 +90,8 @@
 
 2020-01-02  => 929.独特的电子邮件地址 `NumUniqueEmails.java`
 
+2020-01-04  => 937.重新排列日志文件 `ReorderLogFiles.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
