@@ -187,6 +187,8 @@
 
 2019-12-30  => 922.按奇偶排序数组II `SortArrayByParityII.java`
 
+2020-01-06  => 941.有效的山脉数组 `ValidMountainArray.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
