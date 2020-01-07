@@ -92,6 +92,8 @@
 
 2020-01-04  => 937.重新排列日志文件 `ReorderLogFiles.java`
 
+2020-01-07  => 942.增减字符串匹配 `DiStringMatch.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
