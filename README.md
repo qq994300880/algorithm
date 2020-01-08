@@ -94,6 +94,8 @@
 
 2020-01-07  => 942.增减字符串匹配 `DiStringMatch.java`
 
+2020-01-08  => 944.删列造序 `MinDeletionSize.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
