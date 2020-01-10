@@ -193,6 +193,8 @@
 
 2020-01-06  => 941.有效的山脉数组 `ValidMountainArray.java`
 
+2020-01-10  => 949.给定数字能组成的最大时间 `LargestTimeFromDigits.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
