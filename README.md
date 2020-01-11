@@ -96,6 +96,8 @@
 
 2020-01-08  => 944.删列造序 `MinDeletionSize.java`
 
+2020-01-11  => 953.验证外星语词典 `IsAlienSorted.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
