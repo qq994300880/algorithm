@@ -197,6 +197,8 @@
 
 2020-01-10  => 949.给定数字能组成的最大时间 `LargestTimeFromDigits.java`
 
+2020-01-12  => 961.重复N次的元素 `RepeatedNTimes.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 

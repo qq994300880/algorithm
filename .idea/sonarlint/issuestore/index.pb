@@ -6,8 +6,7 @@ S
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 =
-
-algorithm.iml,1\6\1648eeac5c90967ac9aba4bdea7c72a8ab9f970f
+algorithm.iml,1\6\1648eeac5c90967ac9aba4bdea7c72a8ab9f970f
 h
 8src/com/youngdream/algorithm/integer/FindComplement.java,0\7\07487a9bf5776063136e4347d5c7728f7ac22788
 m
@@ -111,3 +110,7 @@ f
 6src/com/youngdream/algorithm/string/DiStringMatch.java,a\6\a6cf5e824c02189c6a33f357b0f25b749f5fc149
 h
 8src/com/youngdream/algorithm/string/MinDeletionSize.java,8\1\815a75feca0d2d9b05c2feace411698e4fb9922a
+m
+=src/com/youngdream/algorithm/array/LargestTimeFromDigits.java,2\9\29830c8442ecd545e7f485469156d7cef5ef4862
+f
+6src/com/youngdream/algorithm/string/IsAlienSorted.java,8\9\8916f4ed19bedc7d939d47496b3e6477a9ffce9c
