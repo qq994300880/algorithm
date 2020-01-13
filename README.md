@@ -242,6 +242,8 @@
 
 2020-01-05  => 938.二叉搜索树的范围和 `RangeSumBST.java`
 
+2020-01-14  => 965.单值二叉树 `IsUnivalTree.java`
+
 ### Hash
 2019-11-10  => 705.设计哈希集合 `MyHashSet.java`
 
