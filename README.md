@@ -27,6 +27,8 @@
 
 2020-01-03  => 933.最近的请求次数 `RecentCounter.java`
 
+2020-01-14  => 970.强整数 `PowerfulIntegers.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
