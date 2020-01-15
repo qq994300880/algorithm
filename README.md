@@ -201,6 +201,8 @@
 
 2020-01-12  => 961.重复N次的元素 `RepeatedNTimes.java`
 
+2020-01-15  => 976.三角形的最大周长 `LargestPerimeter.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
