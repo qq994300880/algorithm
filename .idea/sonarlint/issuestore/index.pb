@@ -122,3 +122,5 @@ j
 :src/com/youngdream/algorithm/integer/PowerfulIntegers.java,4\9\4928ae5a2699f33e4cd133605d937f63d46e3d5b
 h
 8src/com/youngdream/algorithm/array/LargestPerimeter.java,9\5\95f01ec6bfb4dd941bdbe3ef9ca6b7fba6d1c1c2
+e
+5src/com/youngdream/algorithm/array/SortedSquares.java,f\8\f8df507e37c091befc5889cd0fc364f4d03c6d61
