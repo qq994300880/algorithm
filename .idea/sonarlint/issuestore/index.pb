@@ -124,3 +124,5 @@ h
 8src/com/youngdream/algorithm/array/LargestPerimeter.java,9\5\95f01ec6bfb4dd941bdbe3ef9ca6b7fba6d1c1c2
 e
 5src/com/youngdream/algorithm/array/SortedSquares.java,f\8\f8df507e37c091befc5889cd0fc364f4d03c6d61
+k
+;src/com/youngdream/algorithm/array/SumEvenAfterQueries.java,7\f\7f787a00b6b86de00b93cfae84fc29dd0aac498b

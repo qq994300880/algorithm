@@ -207,6 +207,8 @@
 
 2020-01-18  => 985.查询后的偶数和 `SumEvenAfterQueries.java`
 
+2020-01-18  => 989.数组形式的整数加法 `AddToArrayForm.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
