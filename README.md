@@ -211,6 +211,8 @@
 
 2020-01-28  => 994.腐烂的橘子 `OrangesRotting.java`
 
+2020-01-29  => 997.找到小镇的法官 `FindJudge.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
