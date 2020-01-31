@@ -100,6 +100,8 @@
 
 2020-01-11  => 953.验证外星语词典 `IsAlienSorted.java`
 
+2020-01-31  => 1002.查找常用字符 `CommonChars.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
