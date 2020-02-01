@@ -217,6 +217,8 @@
 
 2020-01-30  => 999.车的可用捕获量 `NumRookCaptures.java`
 
+2020-02-01  => 1005.K次取反后最大化的数组和 'LargestSumAfterKNegations.java'
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
