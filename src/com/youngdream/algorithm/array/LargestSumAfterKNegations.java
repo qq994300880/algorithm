@@ -31,7 +31,7 @@ public class LargestSumAfterKNegations {
      * 1 <= K <= 10000
      * -100 <= A[i] <= 100
      */
-    public int largestSumAfterKNegations1(int[] A, int K) {
+    public int largestSumAfterKNegations(int[] A, int K) {
         Arrays.sort(A);
         int len = A.length;
         int sum = 0;
@@ -52,28 +52,6 @@ public class LargestSumAfterKNegations {
         }
         while (index < len) {
             sum += A[index++];
-        }
-        return sum;
-    }
-
-    public int largestSumAfterKNegations(int[] A, int K) {
-        int[] count = new int[201];
-        int sum = 0;
-        for (int i : A) {
-            count[i + 100]++;
-        }
-        for (int i = 0; i < count.length; i++) {
-            if (count[i] == 0) {
-                continue;
-            }
-            if (i < 101) {
-                if (K > 0) {
-                    if (K > count[i]) {
-                        count[200 - i] = count[i];
-                        K -= count[i];
-                    }
-                }
-            }
         }
         return sum;
     }
