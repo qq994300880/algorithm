@@ -29,6 +29,8 @@
 
 2020-01-14  => 970.强整数 `PowerfulIntegers.java`
 
+2020-02-02  => 1009.十进制整数的反码 `BitwiseComplement.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
