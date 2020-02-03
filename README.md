@@ -221,6 +221,8 @@
 
 2020-02-01  => 1005.K次取反后最大化的数组和 'LargestSumAfterKNegations.java'
 
+2020-02-03  => 1010.总持续时间可被60整除的歌曲 `NumPairsDivisibleBy60.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
