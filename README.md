@@ -223,6 +223,8 @@
 
 2020-02-03  => 1010.总持续时间可被60整除的歌曲 `NumPairsDivisibleBy60.java`
 
+2020-02-04  => 1013.将数组分成和相等的三个部分 `CanThreePartsEqualSum.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
