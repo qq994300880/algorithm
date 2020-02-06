@@ -104,6 +104,8 @@
 
 2020-01-31  => 1002.查找常用字符 `CommonChars.java`
 
+2020-02-06  => 1021.删除最外层的括号 `RemoveOuterParentheses.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
