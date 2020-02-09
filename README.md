@@ -31,6 +31,8 @@
 
 2020-02-02  => 1009.十进制整数的反码 `BitwiseComplement.java`
 
+2020-02-08  => 1025.除数博弈 `DivisorGame.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
@@ -275,6 +277,8 @@
 2020-01-14  => 965.单值二叉树 `IsUnivalTree.java`
 
 2020-01-20  => 993.二叉树的堂兄弟节点 `IsCousins.java`
+
+2020-02-07  => 1022.从根到叶的二进制数之和 `SumRootToLeaf.java`
 
 ### Hash
 2019-11-10  => 705.设计哈希集合 `MyHashSet.java`
