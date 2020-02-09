@@ -231,6 +231,8 @@
 
 2020-02-05  => 1018.可被5整除的二进制前缀 `PrefixesDivBy5.java`
 
+2020-02-09  => 1030.距离顺序排列矩阵单元格 `AllCellsDistOrder.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
