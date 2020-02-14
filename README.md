@@ -112,6 +112,8 @@
 
 2020-02-13  => 1160.拼写单词 `CountCharacters.java`
 
+2020-02-14  => 1170.比较字符串最小字母出现频次 `NumSmallerByFrequency.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
