@@ -33,6 +33,8 @@
 
 2020-02-08  => 1025.除数博弈 `DivisorGame.java`
 
+2020-02-15  => 1175.质数排列 `NumPrimeArrangements.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
