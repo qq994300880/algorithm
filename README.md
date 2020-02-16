@@ -306,6 +306,8 @@
 
 2019-10-03  => 627.交换工资 `ExchangeSalary.sql`
 
+2020-02-17  => 1179.重新格式化部门表 `ReformattingTheDepartmentTable.sql`
+
 ### List
 2019-12-18  => 876.链表的中间结点 `MiddleNode.java`
 
