@@ -128,3 +128,11 @@ k
 ;src/com/youngdream/algorithm/array/SumEvenAfterQueries.java,7\f\7f787a00b6b86de00b93cfae84fc29dd0aac498b
 f
 6src/com/youngdream/algorithm/array/AddToArrayForm.java,5\9\59e8abf3f6d30f1115b8293d2a6d688e3785d31c
+e
+5src/com/youngdream/algorithm/sql/InterestingMovie.sql,3\0\30cd558067aa3e58a613db4ac4a246e7a0923567
+c
+3src/com/youngdream/algorithm/sql/ExchangeSalary.sql,c\9\c923024eba2aec4bc630be86d3bca31bd9a3ebeb
+j
+:src/com/youngdream/algorithm/sql/LessonForMoreThanFive.sql,5\0\50e42187b2a5429ecf119b8416e9dc53f5b71efb
+s
+Csrc/com/youngdream/algorithm/sql/ReformattingTheDepartmentTable.sql,a\a\aa574da4f70ff797bf8f8ea597fe9cb0853233bf
