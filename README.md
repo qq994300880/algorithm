@@ -35,6 +35,8 @@
 
 2020-02-15  => 1175.质数排列 `NumPrimeArrangements.java`
 
+2020-02-18  => 1185.一周中的第几天 `DayOfTheWeek.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
