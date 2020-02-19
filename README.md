@@ -118,6 +118,8 @@
 
 2020-02-14  => 1170.比较字符串最小字母出现频次 `NumSmallerByFrequency.java`
 
+2020-02-19  => 1189."气球"的最大数量 `MaxNumberOfBalloons.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
