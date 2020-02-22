@@ -253,6 +253,8 @@
 
 2020-02-21  => 1207.独一无二的出现次数 `UniqueOccurrences.java`
 
+2020-02-22  => 1217.玩筹码 `MinCostToMoveChips.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
