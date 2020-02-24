@@ -257,6 +257,8 @@
 
 2020-02-22  => 1217.玩筹码 `MinCostToMoveChips.java`
 
+2020-02-24  => 1232.缀点成线 `CheckStraightLine.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
