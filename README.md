@@ -37,6 +37,8 @@
 
 2020-02-18  => 1185.一周中的第几天 `DayOfTheWeek.java`
 
+2020-02-25  => 1237.找出给定方程的正整数解 `FindSolution.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
