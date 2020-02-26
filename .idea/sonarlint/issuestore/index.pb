@@ -158,3 +158,5 @@ l
 <src/com/youngdream/algorithm/string/BalancedStringSplit.java,1\3\13298fb5ea3e40056c985561e828514f0b05a2c2
 i
 9src/com/youngdream/algorithm/array/CheckStraightLine.java,9\9\99fd3a875de1a657b1f349e9821995fd65fbfead
+f
+6src/com/youngdream/algorithm/integer/FindSolution.java,7\9\79d91a37397ee5ae9fc47479e27675d6846f981c

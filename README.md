@@ -261,6 +261,8 @@
 
 2020-02-24  => 1232.缀点成线 `CheckStraightLine.java`
 
+2020-02-26  => 1252.奇数值单元格的数目 `OddCells.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
