@@ -265,6 +265,8 @@
 
 2020-02-27  => 1260.二维网格迁移 `ShiftGrid.java`
 
+2020-02-28  => 1266.访问所有点的最小时间 `MinTimeToVisitAllPoints.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
