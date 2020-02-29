@@ -164,3 +164,5 @@ f
 0src/com/youngdream/algorithm/array/OddCells.java,f\4\f4b4c09d1a1c952e2ef34e86aaea75b00811437e
 a
 1src/com/youngdream/algorithm/array/ShiftGrid.java,b\8\b827c3e25060074015a8570b7aede77d6c472a85
+o
+?src/com/youngdream/algorithm/array/MinTimeToVisitAllPoints.java,1\b\1b3d5a2315424236113331c99e455cccd4b2d605
