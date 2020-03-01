@@ -39,6 +39,8 @@
 
 2020-02-25  => 1237.找出给定方程的正整数解 `FindSolution.java`
 
+2020-03-01  => 1281.整数的各位积和之差 `SubtractProductAndSum.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
