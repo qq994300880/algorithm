@@ -168,3 +168,5 @@ o
 ?src/com/youngdream/algorithm/array/MinTimeToVisitAllPoints.java,1\b\1b3d5a2315424236113331c99e455cccd4b2d605
 a
 1src/com/youngdream/algorithm/array/Tictactoe.java,1\f\1f5b73b2e61e725f62d4c901b51ad41e65706278
+o
+?src/com/youngdream/algorithm/integer/SubtractProductAndSum.java,e\0\e0ac166ba74402010140a6014bdbe73ad6535af4
