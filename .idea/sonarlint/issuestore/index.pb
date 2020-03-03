@@ -170,3 +170,5 @@ a
 1src/com/youngdream/algorithm/array/Tictactoe.java,1\f\1f5b73b2e61e725f62d4c901b51ad41e65706278
 o
 ?src/com/youngdream/algorithm/integer/SubtractProductAndSum.java,e\0\e0ac166ba74402010140a6014bdbe73ad6535af4
+j
+:src/com/youngdream/algorithm/array/FindSpecialInteger.java,8\1\81d52c3ce78743be67567a962ba93043f6103fd7

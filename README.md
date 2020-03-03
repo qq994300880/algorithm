@@ -341,5 +341,7 @@
 ### List
 2019-12-18  => 876.链表的中间结点 `MiddleNode.java`
 
+2020-03-03  => 1290.二进制链表转整数 `GetDecimalValue.java`
+
 ### Thread
 2020-02-12  => 1114.按序打印 `Foo.java`
