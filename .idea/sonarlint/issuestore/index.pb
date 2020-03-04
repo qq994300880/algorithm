@@ -172,3 +172,5 @@ o
 ?src/com/youngdream/algorithm/integer/SubtractProductAndSum.java,e\0\e0ac166ba74402010140a6014bdbe73ad6535af4
 j
 :src/com/youngdream/algorithm/array/FindSpecialInteger.java,8\1\81d52c3ce78743be67567a962ba93043f6103fd7
+f
+6src/com/youngdream/algorithm/list/GetDecimalValue.java,b\8\b8bb235c3bbc8a2962e95c08641e1d88b38ad41f

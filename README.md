@@ -273,6 +273,8 @@
 
 2020-03-02  => 1287.有序数组中出现次数超过25%的元素 'FindSpecialInteger.java'
 
+2020-03-04  => 1295.统计位数为偶数的数字 `FindNumbers.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
