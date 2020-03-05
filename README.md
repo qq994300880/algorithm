@@ -275,6 +275,8 @@
 
 2020-03-04  => 1295.统计位数为偶数的数字 `FindNumbers.java`
 
+2020-03-05  => 1299.将每个元素替换为右侧最大元素 `ReplaceElements.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 

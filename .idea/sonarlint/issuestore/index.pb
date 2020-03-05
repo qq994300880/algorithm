@@ -174,3 +174,5 @@ j
 :src/com/youngdream/algorithm/array/FindSpecialInteger.java,8\1\81d52c3ce78743be67567a962ba93043f6103fd7
 f
 6src/com/youngdream/algorithm/list/GetDecimalValue.java,b\8\b8bb235c3bbc8a2962e95c08641e1d88b38ad41f
+c
+3src/com/youngdream/algorithm/array/FindNumbers.java,3\6\36318a72326cf9d0ccdb6daf403355da1f2ef7fa
