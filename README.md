@@ -41,6 +41,8 @@
 
 2020-03-01  => 1281.整数的各位积和之差 `SubtractProductAndSum.java`
 
+2020-03-06  => 1304.和为零的N个唯一整数 `SumZero.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
