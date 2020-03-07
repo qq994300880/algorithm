@@ -178,3 +178,5 @@ c
 3src/com/youngdream/algorithm/array/FindNumbers.java,3\6\36318a72326cf9d0ccdb6daf403355da1f2ef7fa
 g
 7src/com/youngdream/algorithm/array/ReplaceElements.java,5\0\50bb71552dce4b408ff5e67f1456abbc9631281c
+a
+1src/com/youngdream/algorithm/integer/SumZero.java,d\a\dad991266115201898c05054658ca1dd8cba7545

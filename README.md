@@ -128,6 +128,8 @@
 
 2020-02-23  => 1221.分割平衡字符串 `BalancedStringSplit.java`
 
+2020-03-07  => 1309.解码字母到整数映射 `FreqAlphabets.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
