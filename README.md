@@ -281,6 +281,8 @@
 
 2020-03-05  => 1299.将每个元素替换为右侧最大元素 `ReplaceElements.java`
 
+2020-03-08  => 1313.解压缩编码列表 `DecompressRLElist.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
