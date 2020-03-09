@@ -43,6 +43,8 @@
 
 2020-03-06  => 1304.和为零的N个唯一整数 `SumZero.java`
 
+2020-03-09  => 1317.将整数转换为两个无零整数的和 `GetNoZeroIntegers.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
