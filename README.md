@@ -45,6 +45,8 @@
 
 2020-03-09  => 1317.将整数转换为两个无零整数的和 `GetNoZeroIntegers.java`
 
+2020-03-10  => 1323.6和9组成的最大数字 `Maximum69Number.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 

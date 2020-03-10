@@ -184,3 +184,5 @@ f
 6src/com/youngdream/algorithm/string/FreqAlphabets.java,b\1\b14b86bce713df4e0b503f33dbe59e382838d27a
 i
 9src/com/youngdream/algorithm/array/DecompressRLElist.java,4\c\4cdf0f4fc149cdd8ef3061e5548afe58af49f309
+k
+;src/com/youngdream/algorithm/integer/GetNoZeroIntegers.java,a\2\a27bbf0f355ef4b53cea6a63de329c93f3fc9403
