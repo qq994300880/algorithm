@@ -134,6 +134,8 @@
 
 2020-03-07  => 1309.解码字母到整数映射 `FreqAlphabets.java`
 
+2020-03-12  => 1332.删除回文子序列 `RemovePalindromeSub.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 

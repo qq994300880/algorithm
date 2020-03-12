@@ -188,3 +188,5 @@ k
 ;src/com/youngdream/algorithm/integer/GetNoZeroIntegers.java,a\2\a27bbf0f355ef4b53cea6a63de329c93f3fc9403
 i
 9src/com/youngdream/algorithm/integer/Maximum69Number.java,6\8\68e980bf94825927a5720932f60f8c53f714dca8
+j
+:src/com/youngdream/algorithm/array/ArrayRankTransform.java,2\a\2aca6fb4524e0ae7ebc48ee747aa48ea8ef994c8
