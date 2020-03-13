@@ -190,3 +190,5 @@ i
 9src/com/youngdream/algorithm/integer/Maximum69Number.java,6\8\68e980bf94825927a5720932f60f8c53f714dca8
 j
 :src/com/youngdream/algorithm/array/ArrayRankTransform.java,2\a\2aca6fb4524e0ae7ebc48ee747aa48ea8ef994c8
+l
+<src/com/youngdream/algorithm/string/RemovePalindromeSub.java,d\1\d1c3c5f3f8a80ca95889870c9f5f131d27e9a807

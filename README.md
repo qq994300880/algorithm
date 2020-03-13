@@ -291,6 +291,8 @@
 
 2020-03-11  => 1331.数组序号转换 `ArrayRankTransform.java`
 
+2020-03-13  => 1337.方阵中战斗力最弱的K行 `KWeakestRows.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
