@@ -192,3 +192,5 @@ j
 :src/com/youngdream/algorithm/array/ArrayRankTransform.java,2\a\2aca6fb4524e0ae7ebc48ee747aa48ea8ef994c8
 l
 <src/com/youngdream/algorithm/string/RemovePalindromeSub.java,d\1\d1c3c5f3f8a80ca95889870c9f5f131d27e9a807
+d
+4src/com/youngdream/algorithm/array/KWeakestRows.java,4\2\42a6a6c7ac5fa28103d20ccbe72f6c06a8b4f7ff

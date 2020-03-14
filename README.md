@@ -47,6 +47,8 @@
 
 2020-03-10  => 1323.6和9组成的最大数字 `Maximum69Number.java`
 
+2020-03-14  => 1342.将数字变成0的操作次数 `NumberOfSteps.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
