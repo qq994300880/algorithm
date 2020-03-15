@@ -194,3 +194,5 @@ l
 <src/com/youngdream/algorithm/string/RemovePalindromeSub.java,d\1\d1c3c5f3f8a80ca95889870c9f5f131d27e9a807
 d
 4src/com/youngdream/algorithm/array/KWeakestRows.java,4\2\42a6a6c7ac5fa28103d20ccbe72f6c06a8b4f7ff
+g
+7src/com/youngdream/algorithm/integer/NumberOfSteps.java,1\a\1aa051b78279f01b6cae0f37fac93a554a5f9654
