@@ -297,6 +297,8 @@
 
 2020-03-15  => 1346.检查整数及其两倍数是否存在 `CheckIfExist.java`
 
+2020-03-16  => 1351.统计有序矩阵中的负数 `CountNegatives.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
