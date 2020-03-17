@@ -198,3 +198,5 @@ g
 7src/com/youngdream/algorithm/integer/NumberOfSteps.java,1\a\1aa051b78279f01b6cae0f37fac93a554a5f9654
 d
 4src/com/youngdream/algorithm/array/CheckIfExist.java,f\1\f1edbe48fc0715e20e1e03a3407876668057bad9
+f
+6src/com/youngdream/algorithm/array/CountNegatives.java,7\5\75c814fa9f2a6b11553c39aea9a0caca416d3767
