@@ -303,6 +303,8 @@
 
 2020-03-17  => 1356.根据数字二进制下1的数目排序 `SortByBits.java`
 
+2020-03-19  => 1365.有多少小于当前数字的数字 `SmallerNumbersThanCurrent.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
