@@ -49,6 +49,8 @@
 
 2020-03-14  => 1342.将数字变成0的操作次数 `NumberOfSteps.java`
 
+2020-03-21  => 1374.生成每种字符都是奇数个的字符串 `GenerateTheString.java`
+
 ### String
 2019-09-02  => 482.密钥格式化  `LicenseKeyFormatting.java`
 
