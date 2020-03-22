@@ -309,6 +309,8 @@
 
 2020-03-19  => 1365.有多少小于当前数字的数字 `SmallerNumbersThanCurrent.java`
 
+2020-03-22  => 1380.矩阵中的幸运数 `LuckyNumbers.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
