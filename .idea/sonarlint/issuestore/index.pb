@@ -210,3 +210,5 @@ c
 3src/com/youngdream/algorithm/string/SortString.java,1\d\1d3effd595f190c1a638fa257f6d614888359e9b
 k
 ;src/com/youngdream/algorithm/integer/GenerateTheString.java,6\4\64e43dd56bac7b97b8713c50290257b3c405b3ad
+d
+4src/com/youngdream/algorithm/array/LuckyNumbers.java,3\c\3c84eb4a19744ea82c9d44dc442b1286a7f5d3d2

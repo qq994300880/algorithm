@@ -1,4 +1,6 @@
-## 记录个人算法学习
+# 记录个人算法学习
+
+## Simple
 
 ### Integer
 2019-08-31  => 476.数字的补数  `FindComplement.java`
@@ -310,6 +312,8 @@
 2020-03-19  => 1365.有多少小于当前数字的数字 `SmallerNumbersThanCurrent.java`
 
 2020-03-22  => 1380.矩阵中的幸运数 `LuckyNumbers.java`
+
+2020-03-23  => 1385.两个数组间的距离值 `FindTheDistanceValue.java`
 
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
