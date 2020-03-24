@@ -315,6 +315,8 @@
 
 2020-03-23  => 1385.两个数组间的距离值 `FindTheDistanceValue.java`
 
+2020-03-24  => 1389.按既定顺序创建目标数组 `CreateTargetArray.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
