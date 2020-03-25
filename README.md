@@ -317,6 +317,8 @@
 
 2020-03-24  => 1389.按既定顺序创建目标数组 `CreateTargetArray.java`
 
+2020-03-25  => LCP1.猜数字 `Game.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 
