@@ -146,6 +146,8 @@
 
 2020-03-20  => 1370.上升下降字符串 `SortString.java`
 
+2020-03-27  => 面试题01.01.判定字符是否唯一 `IsUnique.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 
