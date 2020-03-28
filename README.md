@@ -148,6 +148,8 @@
 
 2020-03-27  => 面试题01.01.判定字符是否唯一 `IsUnique.java`
 
+2020-03-28  => 面试题01.02.判定是否互为字符重排 `CheckPermutation.java`
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  `FindMaxConsecutiveOnes.java`
 

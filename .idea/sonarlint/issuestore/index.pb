@@ -428,3 +428,5 @@ c
 3src/com/youngdream/algorithm/simple/array/Game.java,d\1\d1833eb2bb85d2b468cb53d03b5f27312bfad223
 g
 7src/com/youngdream/algorithm/simple/array/Fraction.java,2\5\251bffa768f009060a1c27a2261f6a09e2583882
+h
+8src/com/youngdream/algorithm/simple/string/IsUnique.java,9\a\9a49a4027bd3ca583a009ff5c40c254f0f983323
