@@ -325,6 +325,8 @@
 
 2020-03-26  => LCP2.分式化简 `Fraction.java`
 
+2020-03-29  => 5368.找出数组中的幸运数 `FindLucky.java`
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 `FindMode.java`
 

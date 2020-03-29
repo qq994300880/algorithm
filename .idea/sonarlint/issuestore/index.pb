@@ -430,3 +430,5 @@ g
 7src/com/youngdream/algorithm/simple/array/Fraction.java,2\5\251bffa768f009060a1c27a2261f6a09e2583882
 h
 8src/com/youngdream/algorithm/simple/string/IsUnique.java,9\a\9a49a4027bd3ca583a009ff5c40c254f0f983323
+p
+@src/com/youngdream/algorithm/simple/string/CheckPermutation.java,5\0\50f30f1e4acbc971555343b57422547edd098923
