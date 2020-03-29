@@ -432,3 +432,5 @@ h
 8src/com/youngdream/algorithm/simple/string/IsUnique.java,9\a\9a49a4027bd3ca583a009ff5c40c254f0f983323
 p
 @src/com/youngdream/algorithm/simple/string/CheckPermutation.java,5\0\50f30f1e4acbc971555343b57422547edd098923
+h
+8src/com/youngdream/algorithm/simple/array/FindLucky.java,1\8\1820a39df66e47e0ebb4b8d031431ef949c522dd
