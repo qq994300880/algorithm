@@ -434,3 +434,5 @@ p
 @src/com/youngdream/algorithm/simple/string/CheckPermutation.java,5\0\50f30f1e4acbc971555343b57422547edd098923
 h
 8src/com/youngdream/algorithm/simple/array/FindLucky.java,1\8\1820a39df66e47e0ebb4b8d031431ef949c522dd
+m
+=src/com/youngdream/algorithm/simple/string/ReplaceSpaces.java,3\b\3bf7e7e439e682ee2da86637bff197b62b431208
