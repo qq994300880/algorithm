@@ -438,3 +438,5 @@ m
 =src/com/youngdream/algorithm/simple/string/ReplaceSpaces.java,3\b\3bf7e7e439e682ee2da86637bff197b62b431208
 t
 Dsrc/com/youngdream/algorithm/simple/string/CanPermutePalindrome.java,7\0\70c216dc2a25a5f9b534b1e82d93b97fb2a828ce
+n
+>src/com/youngdream/algorithm/simple/string/CompressString.java,7\d\7d3d16d16c0b99bb5c7b61ac2cd0a20816c621d4
