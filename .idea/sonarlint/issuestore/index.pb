@@ -436,3 +436,5 @@ h
 8src/com/youngdream/algorithm/simple/array/FindLucky.java,1\8\1820a39df66e47e0ebb4b8d031431ef949c522dd
 m
 =src/com/youngdream/algorithm/simple/string/ReplaceSpaces.java,3\b\3bf7e7e439e682ee2da86637bff197b62b431208
+t
+Dsrc/com/youngdream/algorithm/simple/string/CanPermutePalindrome.java,7\0\70c216dc2a25a5f9b534b1e82d93b97fb2a828ce

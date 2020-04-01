@@ -154,6 +154,8 @@
 
 2020-03-31  => 面试题01.04.回文排列 [CanPermutePalindrome.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/string/CanPermutePalindrome.java)
 
+2020-04-01  => 面试题01.06.字符串压缩 [CompressString.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/string/CompressString.java)
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  [FindMaxConsecutiveOnes.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/FindMaxConsecutiveOnes.java)
 
