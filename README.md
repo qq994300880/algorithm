@@ -405,5 +405,7 @@
 
 2020-03-03  => 1290.二进制链表转整数 [GetDecimalValue.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/list/GetDecimalValue.java)
 
+2020-04-03  => 面试题02.01.移除重复节点 [RemoveDuplicateNodes.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/list/RemoveDuplicateNodes.java)
+
 ### Thread
 2020-02-12  => 1114.按序打印 [Foo.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/thread/Foo.java)
