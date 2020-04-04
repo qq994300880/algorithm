@@ -407,5 +407,7 @@
 
 2020-04-03  => 面试题02.01.移除重复节点 [RemoveDuplicateNodes.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/list/RemoveDuplicateNodes.java)
 
+2020-04-04  => 面试题02.02.返回倒数第K个节点 [KthToLast.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/list/KthToLast.java)
+
 ### Thread
 2020-02-12  => 1114.按序打印 [Foo.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/thread/Foo.java)
