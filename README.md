@@ -337,6 +337,8 @@
 
 2020-03-29  => 5368.找出数组中的幸运数 [FindLucky.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/FindLucky.java)
 
+2020-04-06  => 1403.非递增顺序的最小子序列 [MinSubsequence.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/MinSubsequence.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
