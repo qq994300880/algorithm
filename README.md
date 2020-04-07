@@ -413,5 +413,7 @@
 
 2020-04-04  => 面试题02.02.返回倒数第K个节点 [KthToLast.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/list/KthToLast.java)
 
+2020-04-07  => 面试题02.03.删除中间节点 [DeleteNode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/list/DeleteNode.java)
+
 ### Thread
 2020-02-12  => 1114.按序打印 [Foo.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/thread/Foo.java)
