@@ -415,5 +415,7 @@
 
 2020-04-07  => 面试题02.03.删除中间节点 [DeleteNode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/list/DeleteNode.java)
 
+2020-04-08  => 面试题02.06.回文链表 [IsPalindrome.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/list/IsPalindrome.java)
+
 ### Thread
 2020-02-12  => 1114.按序打印 [Foo.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/thread/Foo.java)
