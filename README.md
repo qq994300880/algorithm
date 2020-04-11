@@ -419,5 +419,10 @@
 
 2020-04-09  => 面试题02.07.链表相交 [GetIntersectionNode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/list/GetIntersectionNode.java)
 
+### Stack
+2020-04-10  => 面试题03.01.三合一 [TripleInOne.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/stack/TripleInOne.java)
+
+2020-04-11  => 面试题03.02.栈的最小值 [MinStack.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/stack/MinStack.java)
+
 ### Thread
 2020-02-12  => 1114.按序打印 [Foo.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/thread/Foo.java)
