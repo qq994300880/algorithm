@@ -339,6 +339,8 @@
 
 2020-04-06  => 1403.非递增顺序的最小子序列 [MinSubsequence.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/MinSubsequence.java)
 
+2020-04-12  => 5380.数组中的字符串匹配 [StringMatching.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/StringMatching.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
