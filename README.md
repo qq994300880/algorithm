@@ -426,5 +426,7 @@
 
 2020-04-11  => 面试题03.02.栈的最小值 [MinStack.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/stack/MinStack.java)
 
+2020-04-13  => 面试题03.04.化栈为队 [MyQueue.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/stack/MyQueue.java)
+
 ### Thread
 2020-02-12  => 1114.按序打印 [Foo.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/thread/Foo.java)
