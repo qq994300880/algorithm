@@ -428,5 +428,8 @@
 
 2020-04-13  => 面试题03.04.化栈为队 [MyQueue.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/stack/MyQueue.java)
 
+### Queue
+2020-04-14  => 面试题03.06.动物收容所 [AnimalShelf.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/queue/AnimalShelf.java)
+
 ### Thread
 2020-02-12  => 1114.按序打印 [Foo.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/thread/Foo.java)
