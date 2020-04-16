@@ -390,6 +390,8 @@
 
 2020-02-07  => 1022.从根到叶的二进制数之和 [SumRootToLeaf.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/SumRootToLeaf.java)
 
+2020-04-15  => 面试题04.02.最小高度树 [SortedArrayToBST.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/SortedArrayToBST.java)
+
 ### Hash
 2019-11-10  => 705.设计哈希集合 [MyHashSet.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/hash/MyHashSet.java)
 
