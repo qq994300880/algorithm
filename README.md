@@ -341,6 +341,8 @@
 
 2020-04-12  => 5380.数组中的字符串匹配 [StringMatching.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/StringMatching.java)
 
+2020-04-18  => LCP06.拿硬币 [MinCount.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/MinCount.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
