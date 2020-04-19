@@ -343,6 +343,8 @@
 
 2020-04-18  => LCP06.拿硬币 [MinCount.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/MinCount.java)
 
+2020-04-19  => 5372.逐步求和得到正数的最小值 [MinStartValue.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/MinStartValue.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
