@@ -347,6 +347,8 @@
 
 2020-04-19  => 5372.逐步求和得到正数的最小值 [MinStartValue.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/MinStartValue.java)
 
+2020-04-21  => LCP07.传递信息 [NumWays.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/NumWays.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
