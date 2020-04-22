@@ -55,6 +55,8 @@
 
 2020-04-05  => 5360.统计最大组的数目 [CountLargestGroup.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/integer/CountLargestGroup.java)
 
+2020-04-22  => 面试题05.01.插入 [InsertBits.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/integer/InsertBits.java)
+
 ### String
 2019-09-02  => 482.密钥格式化  [LicenseKeyFormatting.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/string/LicenseKeyFormatting.java)
 
