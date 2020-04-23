@@ -57,6 +57,8 @@
 
 2020-04-22  => 面试题05.01.插入 [InsertBits.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/integer/InsertBits.java)
 
+2020-04-23  => 面试题05.03.翻转数位 [ReverseBits.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/integer/ReverseBits.java)
+
 ### String
 2019-09-02  => 482.密钥格式化  [LicenseKeyFormatting.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/string/LicenseKeyFormatting.java)
 
