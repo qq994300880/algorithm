@@ -59,6 +59,8 @@
 
 2020-04-23  => 面试题05.03.翻转数位 [ReverseBits.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/integer/ReverseBits.java)
 
+2020-04-24  => 面试题05.06.整数转换 [ConvertInteger.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/integer/ConvertInteger.java)
+
 ### String
 2019-09-02  => 482.密钥格式化  [LicenseKeyFormatting.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/string/LicenseKeyFormatting.java)
 
