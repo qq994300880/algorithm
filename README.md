@@ -168,6 +168,8 @@
 
 2020-04-21  => 1417.重新格式化字符串 [Reformat.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/string/Reformat.java)
 
+2020-04-26  => 5392.分割字符串的最大得分 [MaxScore.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/string/MaxScore.java)
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  [FindMaxConsecutiveOnes.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/FindMaxConsecutiveOnes.java)
 
