@@ -61,6 +61,8 @@
 
 2020-04-24  => 面试题05.06.整数转换 [ConvertInteger.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/integer/ConvertInteger.java)
 
+2020-04-27  => 面试题05.07.配对交换 [ExchangeBits.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/integer/ExchangeBits.java)
+
 ### String
 2019-09-02  => 482.密钥格式化  [LicenseKeyFormatting.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/string/LicenseKeyFormatting.java)
 
