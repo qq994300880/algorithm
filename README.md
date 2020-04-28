@@ -63,6 +63,8 @@
 
 2020-04-27  => 面试题05.07.配对交换 [ExchangeBits.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/integer/ExchangeBits.java)
 
+2020-04-28  => 面试题08.01.三步问题 [WaysToStep.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/integer/WaysToStep.java)
+
 ### String
 2019-09-02  => 482.密钥格式化  [LicenseKeyFormatting.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/string/LicenseKeyFormatting.java)
 
