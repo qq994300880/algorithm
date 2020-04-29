@@ -363,6 +363,8 @@
 
 2020-04-25  => LCP11.期望个数统计 [ExpectNumber.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/ExpectNumber.java)
 
+2020-04-29  => 面试题08.03.魔术索引 [FindMagicIndex.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/FindMagicIndex.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
