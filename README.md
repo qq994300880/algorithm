@@ -367,6 +367,8 @@
 
 2020-05-01  => 面试题08.10.颜色填充 [FloodFill2.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/FloodFill2.java)
 
+2020-05-02  => 面试题10.01.合并排序的数组 [Merge.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/Merge.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
