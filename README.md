@@ -369,6 +369,8 @@
 
 2020-05-02  => 面试题10.01.合并排序的数组 [Merge.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/Merge.java)
 
+2020-05-03  => 5384.拥有最多糖果的孩子 [KidsWithCandies.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/KidsWithCandies.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
