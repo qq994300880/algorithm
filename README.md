@@ -457,6 +457,8 @@
 
 2020-04-30  => 面试题08.06.汉诺塔问题 [Hanota.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/list/Hanota.java)
 
+2020-05-04  => 1436.旅行终点站 [DestCity.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/list/DestCity.java)
+
 ### Stack
 2020-04-10  => 面试题03.01.三合一 [TripleInOne.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/stack/TripleInOne.java)
 
