@@ -371,6 +371,8 @@
 
 2020-05-03  => 5384.拥有最多糖果的孩子 [KidsWithCandies.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/KidsWithCandies.java)
 
+2020-05-05  => 面试题10.05.稀疏数组搜索 [FindString.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/FindString.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
