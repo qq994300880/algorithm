@@ -180,6 +180,8 @@
 
 2020-04-26  => 5392.分割字符串的最大得分 [MaxScore.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/string/MaxScore.java)
 
+2020-05-09  => 面试题16.15.珠玑妙算 [MasterMind.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/string/MasterMind.java)
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  [FindMaxConsecutiveOnes.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/FindMaxConsecutiveOnes.java)
 
