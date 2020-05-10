@@ -381,6 +381,8 @@
 
 2020-05-05  => 面试题10.05.稀疏数组搜索 [FindString.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/FindString.java)
 
+2020-05-10  => 5404.用栈操作构建数组 [BuildArray.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/BuildArray.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
