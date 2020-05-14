@@ -389,6 +389,8 @@
 
 2020-05-13  => 面试题17.04.消失的数字 [MissingNumber.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/MissingNumber.java)
 
+2020-05-14  => 面试题17.10.主要元素 [MajorityElement.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/MajorityElement.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
