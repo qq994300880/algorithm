@@ -184,6 +184,8 @@
 
 2020-05-09  => 面试题16.15.珠玑妙算 [MasterMind.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/string/MasterMind.java)
 
+2020-05-17  => 5396.连续字符 [MaxPower.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/string/MaxPower.java)
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  [FindMaxConsecutiveOnes.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/FindMaxConsecutiveOnes.java)
 
