@@ -397,6 +397,8 @@
 
 2020-05-18  => 1450.在既定时间做作业的学生人数 [BusyStudent.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/BusyStudent.java)
 
+2020-05-19  => 面试题03.数组中重复的数字 [FindRepeatNumber.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/FindRepeatNumber.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
