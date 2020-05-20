@@ -399,6 +399,8 @@
 
 2020-05-19  => 面试题03.数组中重复的数字 [FindRepeatNumber.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/FindRepeatNumber.java)
 
+2020-05-20  => 面试题04.二维数组中的查找 [FindNumberIn2DArray.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/FindNumberIn2DArray.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
