@@ -502,6 +502,8 @@
 
 2020-04-13  => 面试题03.04.化栈为队 [MyQueue.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/stack/MyQueue.java)
 
+2020-05-23  => 面试题09.用两个栈实现队列 [CQueue.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/stack/CQueue.java) [CQueue.java(利用数组)](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/stack/CQueue2.java)
+
 ### Queue
 2020-04-14  => 面试题03.06.动物收容所 [AnimalShelf.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/queue/AnimalShelf.java)
 

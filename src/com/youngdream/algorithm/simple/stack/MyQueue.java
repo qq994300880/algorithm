@@ -50,13 +50,13 @@ public class MyQueue {
     /**
      * Get the front element.
      */
-    public int peek() {
+    public void peek() {
         if (outStack.isEmpty()) {
             while (!inStack.isEmpty()) {
                 outStack.push(inStack.pop());
             }
         }
-        return outStack.peek();
+        outStack.peek();
     }
 
     /**
