@@ -75,6 +75,8 @@
 
 2020-05-25  => 面试题10-I.斐波拉契数列 [Fib.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/integer/Fib.java)
 
+2020-05-26  => 面试题10-II.青蛙跳台阶问题 [NumWays.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/integer/NumWays.java)
+
 ### String
 2019-09-02  => 482.密钥格式化  [LicenseKeyFormatting.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/string/LicenseKeyFormatting.java)
 
