@@ -77,6 +77,10 @@
 
 2020-05-26  => 面试题10-II.青蛙跳台阶问题 [NumWays.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/integer/NumWays.java)
 
+2020-05-27  => 面试题15. 二进制中1的个数 [HammingWeight.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/integer/HammingWeight.java)
+
+2020-05-27  => 面试题17. 打印从1到最大的n位数 [PrintNumbers.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/integer/PrintNumbers.java)
+
 ### String
 2019-09-02  => 482.密钥格式化  [LicenseKeyFormatting.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/string/LicenseKeyFormatting.java)
 
@@ -409,6 +413,8 @@
 
 2020-05-20  => 面试题04.二维数组中的查找 [FindNumberIn2DArray.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/FindNumberIn2DArray.java)
 
+2020-05-27  => 面试题11.旋转数组的最小数字 [MinArray.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/MinArray.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
@@ -500,6 +506,8 @@
 2020-05-04  => 1436.旅行终点站 [DestCity.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/list/DestCity.java)
 
 2020-05-22  => 面试题06.从尾到头打印链表 [ReversePrint.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/list/ReversePrint.java)
+
+2020-05-27  => 面试题18. 删除链表的节点 [DeleteNode2.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/list/DeleteNode2.java)
 
 ### Stack
 2020-04-10  => 面试题03.01.三合一 [TripleInOne.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/stack/TripleInOne.java)
