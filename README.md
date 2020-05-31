@@ -417,6 +417,8 @@
 
 2020-05-28  => 面试题21. 调整数组顺序使奇数位于偶数前面 [Exchange.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/Exchange.java)
 
+2020-05-31  => 5408. 通过翻转子数组使两个数组相等 [CanBeEqual.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/CanBeEqual.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
