@@ -419,6 +419,8 @@
 
 2020-05-31  => 5408. 通过翻转子数组使两个数组相等 [CanBeEqual.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/CanBeEqual.java)
 
+2020-06-01  => 1464. 数组中两元素的最大乘积 [MaxProduct.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/MaxProduct.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
