@@ -10,6 +10,7 @@ public class MinStack {
     // 1.单栈法 √
     // 2.双栈法
     // 3.自创单链表
+
     private int[] stack;
     private int index;
     private int min = Integer.MAX_VALUE;
