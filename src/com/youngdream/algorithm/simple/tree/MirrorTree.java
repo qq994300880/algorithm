@@ -47,10 +47,7 @@ public class MirrorTree {
      * @param node 需要改变的节点
      */
     private void changeNode(TreeNode node) {
-        if (node == null) {
-            return;
-        }
-        if (node.left != null || node.right != null) {
+        if (node != null && node.left != null || node.right != null) {
             TreeNode left = node.left;
             TreeNode right = node.right;
             node.left = right;
