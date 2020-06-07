@@ -423,6 +423,8 @@
 
 2020-06-06  => 面试题29. 顺时针打印矩阵 [SpiralOrder.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/SpiralOrder.java)
 
+2020-06-07  => 5428. 重新排列数组 [Shuffle.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/Shuffle.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
