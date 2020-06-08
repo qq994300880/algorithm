@@ -29,7 +29,7 @@ public class MajorityElement {
      * @param nums 给定数组
      * @return 主要元素
      */
-    public int majorityElement1(int[] nums) {
+    public int majorityElement2(int[] nums) {
         int len = nums.length;
         Map<Integer, Integer> map = new HashMap<>();
         for (int num : nums) {

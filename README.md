@@ -425,6 +425,8 @@
 
 2020-06-07  => 5428. 重新排列数组 [Shuffle.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/Shuffle.java)
 
+2020-06-08  => 面试题39. 数组中出现次数超过一半的数字 [MajorityElement.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/MajorityElement.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
