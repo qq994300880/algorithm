@@ -427,6 +427,8 @@
 
 2020-06-08  => 面试题39. 数组中出现次数超过一半的数字 [MajorityElement.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/MajorityElement.java)
 
+2020-06-09  => 面试题40. 最小的k个数 [GetLeastNumbers.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/GetLeastNumbers.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
