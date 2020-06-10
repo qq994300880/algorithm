@@ -23,6 +23,7 @@ public class MaxSubArray {
         int sum = 0;
         int max = nums[0];
         for (int num : nums) {
+            // sum+num<num
             if (sum < 0) {
                 sum = num;
             } else {
