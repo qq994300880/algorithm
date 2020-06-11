@@ -198,6 +198,8 @@
 
 2020-05-24  => 5416.检查单词是否为句中其他单词的前缀 [IsPrefixOfWord.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/string/IsPrefixOfWord.java)
 
+2020-06-12  => 面试题50. 第一个只出现一次的字符 [FirstUniqChar.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/string/FirstUniqChar.java)
+
 ### Array
 2019-09-03  => 485.最大连续1的个数  [FindMaxConsecutiveOnes.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/FindMaxConsecutiveOnes.java)
 
