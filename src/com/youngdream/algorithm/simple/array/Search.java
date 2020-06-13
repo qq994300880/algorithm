@@ -27,11 +27,16 @@ public class Search {
         int start = 0;
         int end = nums.length - 1;
         while (start <= end) {
-            int middle = start + (end - start) / 2;//防止整形溢出
+            //防止整形溢出
+            int middle = start + (end - start) / 2;
             int val = nums[middle];
-            if (val == target) return middle;
-            else if (val < target) start = middle + 1;
-            else if (val > target) end = middle - 1;
+            if (val == target) {
+                return middle;
+            } else if (val < target) {
+                start = middle + 1;
+            } else if (val > target) {
+                end = middle - 1;
+            }
         }
         return -1;
     }

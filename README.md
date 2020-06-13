@@ -433,6 +433,8 @@
 
 2020-06-10  => 面试题42. 连续子数组的最大和 [MaxSubArray.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/MaxSubArray.java)
 
+2020-06-13  => 面试题53 - I. 在排序数组中查找数字 I [Search2.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/Search2.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
@@ -538,6 +540,8 @@
 2020-05-30  => 面试题24. 反转链表 [ReverseList.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/list/ReverseList.java)
 
 2020-06-02  => 面试题25. 合并两个排序的链表 [MergeTwoLists.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/list/MergeTwoLists.java)
+
+2020-06-12  => 面试题52. 两个链表的第一个公共节点 [GetIntersectionNode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/list/GetIntersectionNode.java)
 
 ### Stack
 2020-04-10  => 面试题03.01.三合一 [TripleInOne.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/stack/TripleInOne.java)
