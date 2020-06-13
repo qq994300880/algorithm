@@ -435,6 +435,8 @@
 
 2020-06-13  => 面试题53 - I. 在排序数组中查找数字 I [Search2.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/Search2.java)
 
+2020-06-13  => 面试题53 - II. 0～n-1中缺失的数字 [MissingNumber.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/MissingNumber.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 

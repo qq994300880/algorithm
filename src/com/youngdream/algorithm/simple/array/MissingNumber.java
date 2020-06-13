@@ -29,4 +29,14 @@ public class MissingNumber {
         }
         return len * (len + 1) / 2 - sum;
     }
+
+    //排好序的解法
+    public int missingNumber2(int[] nums) {
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] != i) {
+                return i;
+            }
+        }
+        return nums.length;
+    }
 }
