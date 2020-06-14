@@ -437,6 +437,8 @@
 
 2020-06-13  => 面试题53 - II. 0～n-1中缺失的数字 [MissingNumber.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/MissingNumber.java)
 
+2020-06-14  => 5420. 商品折扣后的最终价格 [FinalPrices.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/FinalPrices.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
