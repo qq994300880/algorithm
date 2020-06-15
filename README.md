@@ -439,6 +439,8 @@
 
 2020-06-14  => 5420. 商品折扣后的最终价格 [FinalPrices.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/FinalPrices.java)
 
+2020-06-15  => 1480. 一维数组的动态和 [RunningSum.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/RunningSum.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
