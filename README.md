@@ -504,6 +504,8 @@
 
 2020-06-16  => 面试题54. 二叉搜索树的第k大节点 [KthLargest.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/KthLargest.java)
 
+2020-06-17  => 面试题55 - I. 二叉树的深度 [MaxDepth2.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/MaxDepth2.java)
+
 ### Hash
 2019-11-10  => 705.设计哈希集合 [MyHashSet.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/hash/MyHashSet.java)
 

@@ -22,7 +22,9 @@ public class MaxDepth {
 
     //递归
     private int have(Node node) {
-        if (node == null) return 0;
+        if (node == null) {
+            return 0;
+        }
         int result = 0;
         for (Node child : node.children) {
             result = Math.max(result, maxDepth(child));
@@ -32,7 +34,9 @@ public class MaxDepth {
 
     //迭代：层序遍历 BFS 广度优先搜索算法
     public int maxDepth2(Node root) {
-        if (root == null) return 0;
+        if (root == null) {
+            return 0;
+        }
         Queue<Node> queue = new LinkedList<>();
         queue.add(root);
         int maxDepth = 0;
@@ -44,7 +48,9 @@ public class MaxDepth {
                 Node cur = queue.poll();
                 assert cur != null;
                 for (Node node : cur.children) {
-                    if (node != null) queue.add(node);
+                    if (node != null) {
+                        queue.add(node);
+                    }
                 }
             }
         }
