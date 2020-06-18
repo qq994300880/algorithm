@@ -506,6 +506,8 @@
 
 2020-06-17  => 面试题55 - I. 二叉树的深度 [MaxDepth2.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/MaxDepth2.java)
 
+2020-06-18  => 面试题55 - II. 平衡二叉树 [IsBalanced.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/IsBalanced.java)
+
 ### Hash
 2019-11-10  => 705.设计哈希集合 [MyHashSet.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/hash/MyHashSet.java)
 
