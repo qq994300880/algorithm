@@ -443,6 +443,8 @@
 
 2020-06-19  => 剑指 Offer 57. 和为s的两个数字 [TwoSum.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/TwoSum.java)
 
+2020-06-20  => 剑指 Offer 57 - II. 和为s的连续正数序列 [FindContinuousSequence.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/FindContinuousSequence.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
