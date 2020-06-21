@@ -81,6 +81,8 @@
 
 2020-05-27  => 面试题17. 打印从1到最大的n位数 [PrintNumbers.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/integer/PrintNumbers.java)
 
+2020-06-21  => 1486. 数组异或操作 [XorOperation.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/integer/XorOperation.java)
+
 ### String
 2019-09-02  => 482.密钥格式化  [LicenseKeyFormatting.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/string/LicenseKeyFormatting.java)
 
