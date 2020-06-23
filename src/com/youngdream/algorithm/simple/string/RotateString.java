@@ -34,7 +34,9 @@ public class RotateString {
         A+A => abcde...zabcde...z  包含以上所有情况
         因此只需要判断 A+A是否包含B 就可以了
          */
-        if (A.length() != B.length()) return false;
+        if (A.length() != B.length()) {
+            return false;
+        }
         return (A + A).contains(B);
     }
 }
