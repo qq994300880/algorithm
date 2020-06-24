@@ -451,6 +451,8 @@
 
 2020-06-20  => 剑指 Offer 57 - II. 和为s的连续正数序列 [FindContinuousSequence.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/FindContinuousSequence.java)
 
+2020-06-25  => 剑指 Offer 59 - I. 滑动窗口的最大值 [MaxSlidingWindow.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/MaxSlidingWindow.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
