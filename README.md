@@ -455,6 +455,8 @@
 
 2020-06-25  => 剑指 Offer 59 - I. 滑动窗口的最大值 [MaxSlidingWindow.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/MaxSlidingWindow.java)
 
+2020-06-27  => 剑指 Offer 61. 扑克牌中的顺子 [IsStraight.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/IsStraight.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
