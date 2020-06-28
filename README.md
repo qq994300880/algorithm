@@ -457,6 +457,8 @@
 
 2020-06-27  => 剑指 Offer 61. 扑克牌中的顺子 [IsStraight.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/IsStraight.java)
 
+2020-06-28  => 5432. 去掉最低工资和最高工资后的工资平均值 [Average.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/Average.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
