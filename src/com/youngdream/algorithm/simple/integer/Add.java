@@ -29,4 +29,14 @@ public class Add {
         // 与<<1：进位的结果
         return add(a ^ b, (a & b) << 1);
     }
+
+    public int add2(int a, int b) {
+        int temp = b;
+        while (b != 0) {
+            temp = (a & b) << 1;
+            a ^= b;
+            b = temp;
+        }
+        return a;
+    }
 }
