@@ -35,18 +35,32 @@ public class ReformatDate {
      * @return 转变后的字符串
      */
     public String reformatDate(String date) {
+        int len = date.length();
         StringBuilder sb = new StringBuilder();
-        //正则影响性能
-        String[] s = date.split(" ");
-        String day = s[0];
-        if (day.length() == 3) {
-            day = "0" + day.charAt(0);
-        } else {
-            day = day.substring(0, 2);
+        //添加年
+        sb.append(date, len - 4, len);
+        sb.append('-');
+        //添加月
+        sb.append(getNumber(date.substring(len - 8, len - 5)));
+        sb.append('-');
+        //添加日
+        if (len == 12) {
+            sb.append('0');
         }
-        String month = getNumber(s[1]);
-        String year = s[2];
-        return year + "-" + month + "-" + day;
+        sb.append(date, 0, len - 11);
+
+        //正则影响性能
+//        String[] s = date.split(" ");
+//        String day = s[0];
+//        if (day.length() == 3) {
+//            day = "0" + day.charAt(0);
+//        } else {
+//            day = day.substring(0, 2);
+//        }
+//        String month = getNumber(s[1]);
+//        String year = s[2];
+//        return year + "-" + month + "-" + day;
+        return sb.toString();
     }
 
     String getNumber(String month) {
