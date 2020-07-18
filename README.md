@@ -469,6 +469,8 @@
 
 2020-07-08  => 1502. 判断能否形成等差数列 [CanMakeArithmeticProgression.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/CanMakeArithmeticProgression.java)
 
+2020-07-18  => 1512. 好数对的数目 [NumIdenticalPairs.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/NumIdenticalPairs.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
