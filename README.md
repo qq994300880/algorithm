@@ -473,6 +473,8 @@
 
 2020-07-18  => 1512. 好数对的数目 [NumIdenticalPairs.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/NumIdenticalPairs.java)
 
+2020-07-21  => 剑指 Offer 66. 构建乘积数组 [ConstructArr.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/array/ConstructArr.java)
+
 ### Tree
 2019-09-05  => 501.二叉搜索树中的众数 [FindMode.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/simple/tree/FindMode.java)
 
