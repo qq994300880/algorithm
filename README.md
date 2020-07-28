@@ -613,3 +613,5 @@
 
 ### String
 2020-07-27  => 3. 无重复字符的最长子串 [LengthOfLongestSubstring.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/medium/string/LengthOfLongestSubstring.java)
+
+2020-07-28  => 6. Z 字形变换 [Convert.java](https://github.com/qq994300880/algorithm/blob/master/src/com/youngdream/algorithm/medium/string/Convert.java)
